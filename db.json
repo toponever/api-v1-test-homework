@@ -1,5 +1,6 @@
 {
-  "countcam" : [
+  "countcam" :{
+  "data" : [
      {
             "id" : "000001",
             "count" : "130"
@@ -24,8 +25,10 @@
             "id" : "000006",
             "count" : "30"
         }
-  ],
-  "locationcam" : [
+  ]
+  },
+  "locationcam" : {
+    "data" : [
        {
             "id" : "000001",
             "location" : "สยาม"
@@ -50,8 +53,10 @@
             "id" : "000006",
             "location" : "ตึก QC"
         }
-  ],
-  "namecam": [
+  ]
+  },
+  "namecam": {
+    "data" : [
      {
             "id" : "000001",
             "name" : "เครื่อง 1"
@@ -81,4 +86,5 @@
             "name" : "เครื่องทดสอบ 6"
         }
   ]
+  }
 }
